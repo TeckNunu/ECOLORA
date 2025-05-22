@@ -43,22 +43,22 @@ export const TEXT = {
     SECTION_DESC: "Khám phá các tác phẩm độc đáo của chúng tôi, nơi nghệ thuật gặp gỡ sự bền vững.",
     PRODUCTS: [
       {
-        IMAGE: "/src/public/fd6e39c9c61a73442a0b.jpg",
+        IMAGE: "/fd6e39c9c61a73442a0b.jpg",
         TITLE: "Bó Hoa Tulip Tái Chế",
         DESC: "Bó hoa tulip làm từ chai nhựa tái chế, màu sắc tươi sáng, lý tưởng cho trang trí nhà cửa."
       },
       {
-        IMAGE: "/src/public/5f683e4dfe9e4bc0128f.jpg",
+        IMAGE: "/5f683e4dfe9e4bc0128f.jpg",
         TITLE: "Hoa Hồng Eco",
         DESC: "Hoa hồng tinh tế được chế tác từ ống hút và túi nhựa tái chế, giữ nguyên vẻ đẹp mãi mãi."
       },
       {
-        IMAGE: "/src/public/b7f5f4963445811bd854.jpg",
+        IMAGE: "/b7f5f4963445811bd854.jpg",
         TITLE: "Giỏ Hoa Hướng Dương",
         DESC: "Giỏ hoa hướng dương rực rỡ làm từ nhựa tái chế, mang năng lượng tích cực đến không gian sống."
       },
       {
-        IMAGE: "/src/public/c5238d664db5f8eba1a4.jpg",
+        IMAGE: "/c5238d664db5f8eba1a4.jpg",
         TITLE: "Bình Hoa Sen Mini",
         DESC: "Bình hoa sen nhỏ xinh từ chai nhựa, điểm nhấn hoàn hảo cho bàn làm việc hoặc góc nhỏ trong nhà."
       }
@@ -95,7 +95,7 @@ export const TEXT = {
     STORY_1: "ECOLORA ra đời từ tình yêu với nghệ thuật và khát vọng bảo vệ môi trường. Chúng tôi bắt đầu như một dự án nhỏ, thu gom nhựa thải từ các bãi biển và khu dân cư, biến chúng thành những tác phẩm nghệ thuật độc đáo.",
     STORY_2: "Mỗi bông hoa ECOLORA đều được chế tác thủ công, mang dấu ấn tinh tế và tâm huyết của những người nghệ nhân. Chúng tôi tin rằng vẻ đẹp có thể đến từ những vật liệu tưởng chừng như vô giá trị, và mỗi món đồ tái chế là một hành động nhỏ góp phần bảo vệ hành tinh xanh.",
     STORY_3: "Hôm nay, ECOLORA tự hào mang đến cho bạn những sản phẩm không chỉ đẹp mắt mà còn chứa đựng thông điệp ý nghĩa về lối sống bền vững và thân thiện với môi trường.",
-    IMAGE: "/src/public/36f7108cd05f65013c4e.jpg",
+    IMAGE: "/36f7108cd05f65013c4e.jpg",
     IMAGE_LABEL: "100% Nhựa Tái Chế",
     BUTTON_CONTACT: "Liên hệ ngay"
   },
