@@ -11,7 +11,18 @@ const MessengerButton: React.FC<MessengerButtonProps> = ({
   variant = 'primary',
   text = TEXT.MESSENGER.DEFAULT
 }) => {
+  // Validate the URL to ensure it belongs to Facebook
+  const isValidFacebookUrl = (url: string): boolean => {
+    const facebookRegex = /^https:\/\/www\.facebook\.com\/profile\.php\?id=\d+$/;
+    return facebookRegex.test(url);
+  };
+
   const messengerUrl = TEXT.MESSENGER.URL;
+
+  if (!isValidFacebookUrl(messengerUrl)) {
+    console.error("Invalid Facebook URL detected:", messengerUrl);
+    throw new Error("Invalid Facebook URL");
+  }
 
   // Styling based on variant
   let buttonClasses = '';
