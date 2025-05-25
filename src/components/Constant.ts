@@ -118,7 +118,7 @@ export const TEXT = {
   },
   MESSENGER: {
     DEFAULT: "Nhắn tin ngay",
-    URL: "https://www.facebook.com/DaihocFPTHaNoi"
+    URL: "https://www.facebook.com/profile.php?id=61576821356196"
   },
   FLOATING_BUTTON: {
     SHOW_SCROLL_Y: 500
